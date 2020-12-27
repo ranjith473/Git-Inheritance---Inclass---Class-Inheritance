@@ -5,7 +5,7 @@ class Shape {
   drawShape() {
     console.log("Drawing a shape");
   }
-  caculateArea() {
+  calculateArea() {
     console.log("Don't know area of unknown shape");
     return 0;
   }
